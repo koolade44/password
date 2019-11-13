@@ -3,7 +3,7 @@ import pyperclip as pyp
 master = tk.Tk()
 
 
-print('please input the password, then clise th tk window, the link will automaticly be copied')
+print('please input the password, then close the tk window, the link will automaticly be copied')
 def check_pword():
     x = str('%s' % e1.get())
     y = str('KA446mp')
